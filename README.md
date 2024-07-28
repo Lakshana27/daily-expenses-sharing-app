@@ -163,4 +163,4 @@ If you would like to contribute to this project, please follow these steps:
 
 
 ## Conclusion
-The Daily Expenses Sharing Application is designed to simplify expense management and sharing. With user-friendly features and robust functionality, it aims to make tracking expenses easier for everyone. For any questions or suggestions, feel free to reach out at [lakshanal0827@gmail.com](lakshanal0827@gmail.com).
+The Daily Expenses Sharing Application is designed to simplify expense management and sharing. With user-friendly features and robust functionality, it aims to make tracking expenses easier for everyone. For any questions or suggestions, feel free to reach out at [lakshanal0827@gmail.com](mailto:lakshanal0827@gmail.com).
